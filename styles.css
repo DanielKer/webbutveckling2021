@@ -1,0 +1,15 @@
+h1 {
+  color: Midnightblue;
+  font-family: verdana;
+  font-size: 1.7rem;
+}
+
+p {
+  color: navy;
+  font-family: verdana;
+  font-size: 1.2rem;
+}
+
+body {
+  background-color: teal;
+}
